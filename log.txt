@@ -1,0 +1,110 @@
+[2024-12-06 16:23:32] --------Bot Started----------------
+[2024-12-06 16:25:18] --------Bot Started----------------
+[2024-12-06 16:25:24] New Task from Andrews: Nithingodugu - dg
+http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=dg&dir=&root=1
+
+{'x-pie-req-meta-url': 'http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=dg&dir=&root=1', 'x-pie-req-header-host': 'www.terabox.app', 'x-pie-req-meta-method': 'GET', 'x-pie-req-meta-follow-redirects': 'true', 'x-pie-req-header-Cookie': 'ndus=Y23sc3pteHui1V9QjiWhBfwva6TKjSbru2XSvk3p', 'x-pie-req-header-User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
+
+{"errno":140,"request_id":9056775804985554931,"server_time":1733482551}[2024-12-06 16:27:59] --------Bot Started----------------
+[2024-12-06 16:28:06] New Task from Andrews: Nithingodugu - hi
+http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=hi&dir=&root=1
+
+{'x-pie-req-meta-url': 'http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=hi&dir=&root=1', 'x-pie-req-header-host': 'www.terabox.app', 'x-pie-req-meta-method': 'GET', 'x-pie-req-meta-follow-redirects': 'true', 'x-pie-req-header-Cookie': 'ndus=Y23sc3pteHui1V9QjiWhBfwva6TKjSbru2XSvk3p', 'x-pie-req-header-User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
+
+{"errno":140,"request_id":9056819034373629460,"server_time":1733482712}[2024-12-06 16:30:41] --------Bot Started----------------
+[2024-12-06 16:30:45] Error: 'charmap' codec can't encode character '\U0001f331' in position 494: character maps to <undefined>
+[2024-12-06 16:32:05] Error in main: database is locked
+[2024-12-06 16:32:10] Error in main: database is locked
+[2024-12-06 16:32:37] --------Bot Started----------------
+[2024-12-06 16:32:39] New Task from Andrews: Nithingodugu - djurdud
+http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=djurdud&dir=&root=1
+
+{'x-pie-req-meta-url': 'http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=djurdud&dir=&root=1', 'x-pie-req-header-host': 'www.terabox.app', 'x-pie-req-meta-method': 'GET', 'x-pie-req-meta-follow-redirects': 'true', 'x-pie-req-header-Cookie': 'ndus=Y23sc3pteHui1V9QjiWhBfwva6TKjSbru2XSvk3p', 'x-pie-req-header-User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
+
+{"errno":105,"request_id":9056892294444694298,"server_time":1733482985}[2024-12-06 16:34:00] New Task from Hasiba: hasiba518738 - i1sLnTzc5NdIvuSzbCwENA
+[2024-12-06 16:34:06] New Task from Hasiba: hasiba518738 - I2Wq-L75yM7ejPsKGOxM0Q
+[2024-12-06 16:49:17] Deleted expired file: 32954185255181.json
+[2024-12-06 16:49:17] Deleted expired file: 680607745060761.json
+[2024-12-06 16:58:40] --------Bot Started----------------
+[2024-12-06 16:58:59] New Task from Andrews: Nithingodugu - hi
+http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=hi&dir=&root=1
+
+{'x-pie-req-meta-url': 'http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=hi&dir=&root=1', 'x-pie-req-header-host': 'www.terabox.app', 'x-pie-req-meta-method': 'GET', 'x-pie-req-meta-follow-redirects': 'true', 'x-pie-req-header-Cookie': 'ndus=Y23sc3pteHui1V9QjiWhBfwva6TKjSbru2XSvk3p', 'x-pie-req-header-User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
+
+{"errno":140,"request_id":9057316802277895959,"server_time":1733484567}[2024-12-06 17:00:19] New Task from Andrews: Nithingodugu - G6WEKXj2hB4wqB3cD1KXwg
+[2024-12-06 17:01:12] Error in main: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8000): only one usage of each socket address (protocol/network address/port) is normally permitted
+[2024-12-06 17:01:51] Error in main: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8000): only one usage of each socket address (protocol/network address/port) is normally permitted
+[2024-12-06 17:02:03] --------Bot Started----------------
+[2024-12-06 17:02:31] New Task from Andrews: Nithingodugu - G6WEKXj2hB4wqB3cD1KXwg
+[2024-12-06 17:05:36] --------Bot Started----------------
+[2024-12-06 17:06:07] New Task from Andrews: Nithingodugu - G6WEKXj2hB4wqB3cD1KXwg
+[2024-12-06 17:06:25] New Task from Andrews: Nithingodugu - G6WEKXj2hB4wqB3cD1KXwg
+[2024-12-06 17:08:39] --------Bot Started----------------
+[2024-12-06 17:08:53] New Task from Andrews: Nithingodugu - G6WEKXj2hB4wqB3cD1KXwg
+[2024-12-06 17:09:03] New Task from Andrews: Nithingodugu - G6WEKXj2hB4wqB3cD1KXwg
+[2024-12-06 17:09:06] New Task from Andrews: Nithingodugu - G6WEKXj2hB4wqB3cD1KXwg
+[2024-12-06 17:09:10] New Task from Andrews: Nithingodugu - G6WEKXj2hB4wqB3cD1KXwg
+[2024-12-06 17:09:35] New Task from Andrews: Nithingodugu - G6WEKXj2hB4wqB3cD1KXwg
+[2024-12-06 17:15:54] New Task from Andrews: Nithingodugu - https://t.me/teraboxdwnfree_bot/start
+http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=https://t.me/teraboxdwnfree_bot/start&dir=&root=1
+
+{'x-pie-req-meta-url': 'http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=https://t.me/teraboxdwnfree_bot/start&dir=&root=1', 'x-pie-req-header-host': 'www.terabox.app', 'x-pie-req-meta-method': 'GET', 'x-pie-req-meta-follow-redirects': 'true', 'x-pie-req-header-Cookie': 'ndus=Y23sc3pteHui1V9QjiWhBfwva6TKjSbru2XSvk3p', 'x-pie-req-header-User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
+
+{"errno":105,"request_id":9057589015752356529,"server_time":1733485581}[2024-12-06 17:16:46] New Task from Andrews: Nithingodugu - https://t.me/teraboxdwnfree_bot/appname?startapp
+http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=https://t.me/teraboxdwnfree_bot/appname?startapp&dir=&root=1
+
+{'x-pie-req-meta-url': 'http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=https://t.me/teraboxdwnfree_bot/appname?startapp&dir=&root=1', 'x-pie-req-header-host': 'www.terabox.app', 'x-pie-req-meta-method': 'GET', 'x-pie-req-meta-follow-redirects': 'true', 'x-pie-req-header-Cookie': 'ndus=Y23sc3pteHui1V9QjiWhBfwva6TKjSbru2XSvk3p', 'x-pie-req-header-User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
+
+{"errno":2,"request_id":9057602645758036076,"server_time":1733485632}[2024-12-06 17:16:54] New Task from Andrews: Nithingodugu - https://t.me/teraboxdwnfree_bot?startapp
+http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=https://t.me/teraboxdwnfree_bot?startapp&dir=&root=1
+
+{'x-pie-req-meta-url': 'http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=https://t.me/teraboxdwnfree_bot?startapp&dir=&root=1', 'x-pie-req-header-host': 'www.terabox.app', 'x-pie-req-meta-method': 'GET', 'x-pie-req-meta-follow-redirects': 'true', 'x-pie-req-header-Cookie': 'ndus=Y23sc3pteHui1V9QjiWhBfwva6TKjSbru2XSvk3p', 'x-pie-req-header-User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
+
+{"errno":2,"request_id":9057604883112392728,"server_time":1733485640}[2024-12-06 17:44:26] --------Bot Started----------------
+[2024-12-06 17:44:26] Deleted expired file: 815057884419183.json
+[2024-12-06 18:14:42] --------Bot Started----------------
+[2024-12-06 18:15:49] --------Bot Started----------------
+[2024-12-06 18:27:56] --------Bot Started----------------
+[2024-12-06 18:28:12] New Task from Andrews: Nithingodugu - G6WEKXj2hB4wqB3cD1KXwg
+[2024-12-06 18:30:09] New Task from Andrews: Nithingodugu - G6WEKXj2hB4wqB3cD1KXwg
+[2024-12-06 18:30:52] New Task from Andrews: Nithingodugu - VNND7q-la-HJpGLPEIGi3Q
+[2024-12-06 18:33:27] --------Bot Started----------------
+[2024-12-06 18:34:14] Error: object bool can't be used in 'await' expression
+[2024-12-06 18:35:03] --------Bot Started----------------
+[2024-12-06 18:36:03] --------Bot Started----------------
+[2024-12-06 18:38:14] New Task from Andrews: Nithingodugu - VNND7q-la-HJpGLPEIGi3Q
+[2024-12-06 18:42:44] New Task from Andrews: Nithingodugu - VNND7q-la-HJpGLPEIGi3Q
+[2024-12-06 18:44:23] Deleted expired file: 815057884419183.json
+[2024-12-06 18:49:29] Connected to Atlas instance!
+[2024-12-06 18:49:31] Error in main: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8000): only one usage of each socket address (protocol/network address/port) is normally permitted
+[2024-12-06 18:53:05] Connected to Atlas instance!
+[2024-12-06 18:53:07] Error in main: [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8000): only one usage of each socket address (protocol/network address/port) is normally permitted
+[2024-12-06 18:53:36] Connected to Atlas instance!
+[2024-12-06 18:53:38] --------Bot Started----------------
+[2024-12-06 18:53:38] Deleted all documents except the last 10 with IDs: ['8221733796156432776', 1688]
+[2024-12-06 18:55:52] New Task from Hasiba: hasiba518738 - ug
+http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=ug&dir=&root=1
+
+{'x-pie-req-meta-url': 'http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=ug&dir=&root=1', 'x-pie-req-header-host': 'www.terabox.app', 'x-pie-req-meta-method': 'GET', 'x-pie-req-meta-follow-redirects': 'true', 'x-pie-req-header-Cookie': 'ndus=Y23sc3pteHui1V9QjiWhBfwva6TKjSbru2XSvk3p', 'x-pie-req-header-User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
+
+{"errno":140,"request_id":9059199066295558019,"server_time":1733491579}[2024-12-06 18:56:07] New Task from Hasiba: hasiba518738 - shg
+http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=shg&dir=&root=1
+
+{'x-pie-req-meta-url': 'http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=shg&dir=&root=1', 'x-pie-req-header-host': 'www.terabox.app', 'x-pie-req-meta-method': 'GET', 'x-pie-req-meta-follow-redirects': 'true', 'x-pie-req-header-Cookie': 'ndus=Y23sc3pteHui1V9QjiWhBfwva6TKjSbru2XSvk3p', 'x-pie-req-header-User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
+
+{"errno":140,"request_id":9059203414240899560,"server_time":1733491595}[2024-12-06 18:56:12] New Task from Hasiba: hasiba518738 - seh
+http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=seh&dir=&root=1
+
+{'x-pie-req-meta-url': 'http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=seh&dir=&root=1', 'x-pie-req-header-host': 'www.terabox.app', 'x-pie-req-meta-method': 'GET', 'x-pie-req-meta-follow-redirects': 'true', 'x-pie-req-header-Cookie': 'ndus=Y23sc3pteHui1V9QjiWhBfwva6TKjSbru2XSvk3p', 'x-pie-req-header-User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
+
+{"errno":140,"request_id":9059204231438818467,"server_time":1733491598}[2024-12-06 18:56:14] New Task from Hasiba: hasiba518738 - she
+http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=she&dir=&root=1
+
+{'x-pie-req-meta-url': 'http://www.terabox.app/share/list?app_id=250528&web=1&channel=dubox&clienttype=5&jsToken=590D09B93ADE6B520DE391BA394FFCC04312381828B1B3CB9620F14EAB9283F54FB72A1269DDCE54ECB8D4F57F2DFA30E12CE7DE43F11B19C05F2EF4F17835D0&page=1&num=20&by=name&order=asc&site_referer=&shorturl=she&dir=&root=1', 'x-pie-req-header-host': 'www.terabox.app', 'x-pie-req-meta-method': 'GET', 'x-pie-req-meta-follow-redirects': 'true', 'x-pie-req-header-Cookie': 'ndus=Y23sc3pteHui1V9QjiWhBfwva6TKjSbru2XSvk3p', 'x-pie-req-header-User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
+
+{"errno":140,"request_id":9059204918072547081,"server_time":1733491600}[2024-12-06 18:57:12] New Task from Hasiba: hasiba518738 - VNND7q-la-HJpGLPEIGi3Q
+[2024-12-06 19:01:59] Deleted all documents except the last 10 with IDs: ['8221733796156432776', 1786, 1785, 1784, 1783, 1779, 1778, 1688]
+[2024-12-09 19:18:43] Connected to Atlas instance!
+[2024-12-09 19:18:51] --------Bot Started----------------
+[2024-12-09 19:18:52] Deleted all documents except the last 10 with IDs: ['9077193376054440581', '8305250048641893248', '8305250046830381140', '8221733797142168907', '8221733796955367559', '8221733796941947547', '8221733796881018218', '8221733796614401863', '8221733796461921313', '8221733796156432776']
+[2024-12-09 19:18:52] Deleted expired file: 36896558688305.json

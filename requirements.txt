@@ -1,0 +1,8 @@
+aiohttp
+pyrogram
+tgcrypto
+pymongo
+dnspython
+pytz
+requests
+urllib3

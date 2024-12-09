@@ -1,0 +1,117 @@
+{
+    "_": "Message",
+    "id": 1406,
+    "from_user": {
+        "_": "User",
+        "id": 5663021390,
+        "is_self": false,
+        "is_contact": false,
+        "is_mutual_contact": false,
+        "is_deleted": false,
+        "is_bot": false,
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "is_premium": false,
+        "first_name": "Hasiba",
+        "status": "UserStatus.RECENTLY",
+        "username": "hasiba518738",
+        "language_code": "en"
+    },
+    "date": "2024-12-06 16:34:24",
+    "chat": {
+        "_": "Chat",
+        "id": 5663021390,
+        "type": "ChatType.PRIVATE",
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "username": "hasiba518738",
+        "first_name": "Hasiba"
+    },
+    "forward_from_chat": {
+        "_": "Chat",
+        "id": -1001832409769,
+        "type": "ChatType.SUPERGROUP",
+        "is_verified": false,
+        "is_restricted": false,
+        "is_creator": false,
+        "is_scam": false,
+        "is_fake": false,
+        "title": "A.A TERA BOX STUFF",
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAQADcaoxG0CtSEYAEAIAA1eVIr4W____FQSHXsM8h-EABB4E",
+            "small_photo_unique_id": "AgADcaoxG0CtSEY",
+            "big_file_id": "AQADAQADcaoxG0CtSEYAEAMAA1eVIr4W____FQSHXsM8h-EABB4E",
+            "big_photo_unique_id": "AgADcaoxG0CtSEY"
+        },
+        "dc_id": 1,
+        "has_protected_content": false,
+        "permissions": {
+            "_": "ChatPermissions",
+            "can_send_messages": false,
+            "can_send_media_messages": false,
+            "can_send_other_messages": false,
+            "can_send_polls": false,
+            "can_add_web_page_previews": false,
+            "can_change_info": false,
+            "can_invite_users": true,
+            "can_pin_messages": false
+        }
+    },
+    "forward_date": "2024-12-03 20:32:12",
+    "mentioned": false,
+    "scheduled": false,
+    "from_scheduled": false,
+    "media": "MessageMediaType.PHOTO",
+    "has_protected_content": false,
+    "has_media_spoiler": false,
+    "caption_entities": [
+        {
+            "_": "MessageEntity",
+            "type": "MessageEntityType.URL",
+            "offset": 70,
+            "length": 49
+        },
+        {
+            "_": "MessageEntity",
+            "type": "MessageEntityType.URL",
+            "offset": 133,
+            "length": 49
+        }
+    ],
+    "photo": {
+        "_": "Photo",
+        "file_id": "AgACAgUAAxkBAAIFfmdS2jivlvm__CnoL_ohtazMC4gQAAKRtjEb6PLAV843dwceJSJIAAgBAAMCAAN5AAceBA",
+        "file_unique_id": "AgADkbYxG-jywFc",
+        "width": 1080,
+        "height": 974,
+        "file_size": 117513,
+        "date": "2023-02-24 15:15:38",
+        "thumbs": [
+            {
+                "_": "Thumbnail",
+                "file_id": "AgACAgUAAxkBAAIFfmdS2jivlvm__CnoL_ohtazMC4gQAAKRtjEb6PLAV843dwceJSJIAAgBAAMCAANzAAceBA",
+                "file_unique_id": "AgADkbYxG-jywFc",
+                "width": 90,
+                "height": 81,
+                "file_size": 1881
+            },
+            {
+                "_": "Thumbnail",
+                "file_id": "AgACAgUAAxkBAAIFfmdS2jivlvm__CnoL_ohtazMC4gQAAKRtjEb6PLAV843dwceJSJIAAgBAAMCAANtAAceBA",
+                "file_unique_id": "AgADkbYxG-jywFc",
+                "width": 320,
+                "height": 288,
+                "file_size": 23306
+            }
+        ]
+    },
+    "caption": "📥 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐋𝐢𝐧𝐤𝐬/👀𝐖𝐚𝐭𝐜𝐡 𝐎𝐧𝐥𝐢𝐧𝐞\n\nVideo 1. 👉 https://1024terabox.com/s/1i1sLnTzc5NdIvuSzbCwENA\n\nVideo 2. 👉 https://1024terabox.com/s/1I2Wq-L75yM7ejPsKGOxM0Q",
+    "outgoing": false
+}
